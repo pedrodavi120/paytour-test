@@ -14,7 +14,7 @@ Este é um projeto PHP criado como parte do processo seletivo da Paytour. A apli
 - Dependências gerenciadas via Composer.
 - Testes unitários utilizando PHPUnit.
 
-````markdown
+
 ## Como Configurar e Executar o Projeto
 
 ### Pré-requisitos
