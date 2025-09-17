@@ -102,7 +102,4 @@ Para rodar a suíte de testes, execute o PHPUnit:
 ./vendor/bin/phpunit
 ```
 
-Obrigado pela oportunidade\!
-
-```
-```
+## Obrigado pela oportunidade\!
