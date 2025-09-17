@@ -1,4 +1,4 @@
-````markdown
+
 # Teste de Aceleração Paytour - Formulário de Currículo
 
 Este é um projeto PHP criado como parte do processo seletivo da Paytour. A aplicação consiste em um formulário para envio de currículos, com validação de dados, upload de arquivos, armazenamento em banco de dados e notificação por e-mail.
@@ -14,6 +14,7 @@ Este é um projeto PHP criado como parte do processo seletivo da Paytour. A apli
 - Dependências gerenciadas via Composer.
 - Testes unitários utilizando PHPUnit.
 
+````markdown
 ## Como Configurar e Executar o Projeto
 
 ### Pré-requisitos
